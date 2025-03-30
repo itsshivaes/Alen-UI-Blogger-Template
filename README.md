@@ -17,7 +17,7 @@ A **lightweight**, **fast-loading**, and **SEO-optimized** Blogger template desi
 
 ## 📷 Preview
 
-![Alen UI Preview](https://via.placeholder.com/1000x500.png?text=Alen+UI+Blogger+Template)
+![Alen UI Preview](tablet-alen-ui-dark.jpg)
 
 ## 📌 Installation & Documentation
 
