@@ -1,0 +1,27 @@
+<style>
+    .contact-form{border:1px solid #e5e5e5;padding:20px;border-radius:6px;width:100%;max-width:400px;margin:auto}
+    .contact-form h2{margin-bottom:15px;text-align:center}
+    .input-group{margin-bottom:15px}
+    .input-group label{display:block;margin-bottom:5px}
+    .input-group input,.input-group textarea{width:100%;padding:10px;border:1px solid #e5e5e5;border-radius:5px;font-size:14px}
+    .input-group textarea{resize:none;height:100px}
+    .contact-form button{width:100%;padding:10px;border:none;background:var(--link);color:#fff;font-size:16px;border-radius:5px;cursor:pointer;transition:background 0.3s}
+    .contact-form button:hover{background:#16a085}
+.Night .contact-form,.Night .input-group input, .Night .input-group textarea {border-color:#333333}</style><div class="contact-form">
+    <h2>Contact Us</h2>
+    <div class="input-group">
+        <label for="name">Name</label>
+        <input type="text" id="name" placeholder="Enter your name" required>
+    </div>
+    <div class="input-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" placeholder="Enter your email" required>
+    </div>
+    <div class="input-group">
+        <label for="message">Message</label>
+        <textarea id="message" placeholder="Write your message" required></textarea>
+    </div>
+    <button type="button" onclick="sendEmail()">Send Message</button>
+</div><script>
+    function sendEmail(){var e=document.getElementById("name").value,t=document.getElementById("email").value,n=document.getElementById("message").value,o="New Contact Form Submission",a="Name: "+e+"%0AEmail: "+t+"%0AMessage: "+n;window.location.href="mailto:your-email@example.com?subject="+o+"&body="+a}
+</script>
