@@ -14,6 +14,7 @@ A **lightweight**, **fast-loading**, and **SEO-optimized** Blogger template desi
 - **Rich Results Support** – Structured data for improved visibility.
 - **New Random Post Slider** – Replaces the traditional image slider.
 - **Modern Border Design** – Fresh and appealing UI enhancements.
+- **Dark Mode toggle** - For better visbility.
 
 ## 📷 Preview
 
