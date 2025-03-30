@@ -1,4 +1,4 @@
-# Alen UI Blogger Template
+# Alen UI ⚡ – The Next-Gen Blogger Template for Speed & SEO
 
 [![Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://alen-ui.blogspot.com/)
 [![Docs](https://img.shields.io/badge/Documentation-Read%20More-orange?style=for-the-badge)](https://alen-ui.blogspot.com/search/label/Docs)
