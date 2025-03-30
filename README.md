@@ -1,7 +1,7 @@
 # Alen UI Blogger Template
 
 [![Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://alen-ui.blogspot.com/)
-[![Docs](https://img.shields.io/badge/Documentation-Read%20More-orange?style=for-the-badge)](https://alen-ui.blogspot.com/search/label/docs)
+[![Docs](https://img.shields.io/badge/Documentation-Read%20More-orange?style=for-the-badge)](https://alen-ui.blogspot.com/search/label/Docs)
 
 A **lightweight**, **fast-loading**, and **SEO-optimized** Blogger template designed for performance and modern web standards.
 
@@ -21,7 +21,7 @@ A **lightweight**, **fast-loading**, and **SEO-optimized** Blogger template desi
 
 ## 📌 Installation & Documentation
 
-Follow the [official documentation](https://alen-ui.blogspot.com/search/label/docs) for step-by-step guidance on installation and customization.
+Follow the [official documentation](https://alen-ui.blogspot.com/search/label/Docs) for step-by-step guidance on installation and customization.
 
 ## 💡 Why Choose Alen UI?
 
