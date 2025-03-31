@@ -38,7 +38,7 @@ This project is licensed under the **MIT License** – you are free to use, modi
 
 ## 📬 Contact & Support
 
-For any queries or support, visit the [Docs](https://alen-ui.blogspot.com/search/label/docs), leave a comment on the demo site, or email **contact@incrediblegad.in**.
+For any queries or support, email **contact@incrediblegad.in**.
 
 ## ☕ Support the Project
 
