@@ -194,7 +194,7 @@ svg.line, svg .line{fill:none;stroke:#161617;stroke-linecap:round;stroke-linejoi
 
 /* Profile widget */img.profile-img{border-radius:100px;display:block;margin-left:auto;margin-right:auto;height:90px;width:90px;padding:.5rem;border:1px solid var(--link)}.profile-link.g-profile{text-decoration:none;color:inherit;text-align:center;display:block;margin:10px}a.profile-link.vmcp{color:inherit;padding:8px;display:block;text-align:center;border:1px solid var(--link);border-radius:30px;width:fit-content;margin-left:auto;margin-right:auto} div#Profile1{box-shadow:0 2px 10px 0 rgb(0 0 0 / 7%);padding:1rem;border-radius:10px}dd.profile-textblock{display:block;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:gray}dd.profile-data.location{color:var(--link);font-size:13px;display:block;text-align:center}
 
-/* Changelog */ .changeLog{position:fixed;bottom:0;left:0;right:0;margin:0;padding:40px 0;width:100%;height:100%;background-color:#fefefe;font-size:15px;z-index:22;-webkit-transition:all .1s ease;transition:all .1s ease;overflow-y:auto;opacity:0;visibility:hidden}.changeLog .logClose{display:flex;align-items:center;height:22px;position:absolute;top:20px;right:25px}.changeLog .logClose:before{content:'Close';font-size:11px;padding-right:8px;color:gray}.changeLog .logContent{width:100%;max-width:820px;padding:0 20px;margin-top:200px;margin-left:auto;margin-right:auto;font-family:'Noto Sans', sans-serif}.changeLog .logContent h2{margin-top:10px;}.changeLog .logContent ol,.changeLog .logContent ul{padding-left:30px}.logInput:checked ~ .changeLog{opacity:1;visibility:visible}.I{color:inherit;text-decoration:underline;font-family:match;line-height:20px}.Night .changeLog{background-color:#1e1e1e}.Night .logContent{background-color:#1e1e1e}
+/* Changelog */ .changeLog{position:fixed;bottom:0;left:0;right:0;margin:0;padding:40px 0;width:100%;height:100%;background-color:#fefefe;font-size:15px;z-index:9999;-webkit-transition:all .1s ease;transition:all .1s ease;overflow-y:auto;opacity:0;visibility:hidden}.changeLog .logClose{display:flex;align-items:center;height:22px;position:absolute;top:20px;right:25px}.changeLog .logClose:before{content:'Close';font-size:11px;padding-right:8px;color:gray}.changeLog .logContent{width:100%;max-width:820px;padding:0 20px;margin-top:200px;margin-left:auto;margin-right:auto;font-family:'Noto Sans', sans-serif}.changeLog .logContent h2{margin-top:10px;}.changeLog .logContent ol,.changeLog .logContent ul{padding-left:30px}.logInput:checked ~ .changeLog{opacity:1;visibility:visible}.I{color:inherit;text-decoration:underline;font-family:match;line-height:20px}.Night .changeLog{background-color:#1e1e1e}.Night .logContent{background-color:#1e1e1e}
 
 /* Search */#search {position:relative;font-size:13px;width:auto;height:100%;margin:0 auto;text-align:center}#search-form {background:none;border-radius:30px;margin:0 auto;border:1px solid #979797;height:36px;line-height:13px;width:100%;font-size:13px;font-weight:400;color:gray;padding:35px;transition:all 0.5s ease 0s;}#search-form .search-button,#search-form .search-button:hover{transition:all 0.5s ease 0s;height:36px;width:36px;line-height:13px;background:#fff;border:0 none;float:right;cursor:pointer;outline:none;}#box {display:none}.search-text {font-size:13px;float:right;cursor:pointer;}.search-text:hover {color:gray}
 
@@ -410,8 +410,8 @@ body#layout .adminbar{display: block !important;width:280px;float:left;height:10
             <b:widget-settings>
               <b:widget-setting name='content'><![CDATA[<div class='ntfA'> 
  <span>
-Welcome to Alen UI v1.2!
-</span> 
+Welcome to Alen UI v1.2. <a href="https://github.com/itsshivaes/Alen-UI-Blogger-Template" target="_blank" rel="nofollow">Get theme!</a>
+</span>
 </div>]]></b:widget-setting>
             </b:widget-settings>
             <b:includable id='main'>
